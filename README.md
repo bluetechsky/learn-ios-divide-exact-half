@@ -4,18 +4,20 @@
 See how it look like:
 ## iPhone
 ### Portrait
-![iPhone Portait screenshot](screenshots/Image-6.png)]{:height="50%" width="50%"}
+<img width="200" alt="portfolio_view" src="screenshots/Image-6.png">
+
+![iPhone Portait screenshot](screenshots/Image-6.png){:height="50%" width="50%"}
 
 ### Landscape
-![iPhone Lanscape screenshot](screenshots/Image-7.png)]{:height="50%" width="50%"}
+![iPhone Lanscape screenshot](screenshots/Image-7.png){:height="50%" width="50%"}
 
 
 ## iPad Pro
 ### Portrait
-![iPad Pro Portait screenshot](screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27at08.32.31.png)]{:height="50%" width="50%"}
+![iPad Pro Portait screenshot](screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27at08.32.31.png){:height="50%" width="50%"}
 
 ### Landscape
-![iPad Pro Lanscape screenshot](screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27at08.32.58.png)]{:height="50%" width="50%"}
+![iPad Pro Lanscape screenshot](screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27at08.32.58.png){:height="50%" width="50%"}
 
 
 ## How to
