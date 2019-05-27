@@ -3,20 +3,22 @@
 
 See how it look like:
 ## iPhone
-### Portrait
-<img width="200" alt="iPhone Portait screenshot" src="screenshots/Image-7.png">
-
-
-### Landscape
-<img width="250" alt="iPhone Lanscape screenshot" src="screenshots/Image-6.png">
-
+<table>
+	<tr><td>### Portrait</td><td>### Landscape</td></tr>
+	<tr>
+		<td><img width="200" alt="iPhone Portait screenshot" src="screenshots/Image-7.png"></td>
+		<td><img width="250" alt="iPhone Lanscape screenshot" src="screenshots/Image-6.png"></td>
+	</tr>
+</table>
 
 ## iPad Pro
-### Portrait
-<img width="300" alt="iPad Pro Portait screenshot" src="screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27_0911.png">
-
-### Landscape
-<img width="350" alt="iPad Pro Lanscape screenshot" src="screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27_0912.png">
+<table>
+	<tr><td>### Portrait</td><td>### Landscape</td></tr>
+	<tr>
+		<td><img width="300" alt="iPad Pro Portait screenshot" src="screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27_0911.png"></td>
+		<td><img width="350" alt="iPad Pro Lanscape screenshot" src="screenshots/SimulatorScreenShot-iPadPro12.9-inch-2019-05-27_0912.png"></td>
+	</tr>
+</table>
 
 
 ## How to
