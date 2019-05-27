@@ -22,6 +22,8 @@ See how it look like:
 
 
 ## How to
+<img width="400" alt="GreenView constraints setting" src="screenshots/2019-05-27_0927.png"><br>
+<img width="400" alt="BlueView constraints setting" src="screenshots/2019-05-27_0928.png">
 - Add 2 Views: namely GreenView + BlueView
 - Control + drag GreenView to its parent in Document Outline
 - Add constraint : Equal Height
@@ -29,6 +31,7 @@ See how it look like:
 - Set Left + Top + Right constraint to 0
 
 Next
+
 - Control + drag BlueView to GreenView in Storyboard
 - Add constraint: Equal Height
 - set Left + Bottom + Right constraint to 0
